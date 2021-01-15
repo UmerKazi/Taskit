@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1094678729665-49dl0v5sd8i5p6vsoc9b50b39lfcm2jr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1094678729665-49dl0v5sd8i5p6vsoc9b50b39lfcm2jr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6ElJtqJXljE9AO3shUcmS09Hoq8nyPKs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1094678729665</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kazi.taskit</string>
+	<key>PROJECT_ID</key>
+	<string>taskit-9d670</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taskit-9d670.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1094678729665:ios:a47e0d8bc4e7b6c9ed9540</string>
+</dict>
+</plist>
