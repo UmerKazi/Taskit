@@ -3,12 +3,14 @@ Taskit is a simple and easy to use task management application. Built with Swift
 </br>
 
 <b>Landing Page</b>
-<br/>
+<br>
 <img src="/ss/IMG_6673.PNG" alt="Landing Page" width="500px">
-<br/>
+</br>
 <b>Login / Sign up</b>
 <br/>
 <img src="/ss/IMG_6674.PNG" alt="Login/Sign up" width="500px">
+
+
 <br/>
 <b>Home</b>
 <br/>
