@@ -2,7 +2,9 @@
 Taskit is a simple and easy to use task management application. Built with Swift and Firebase, this IOS app allows users to keep track of whats important. Below is a breakdown of the application:
 
 <b>Landing Page</b>
+</br>
 <img src="/ss/IMG_6673.PNG" alt="Landing Page" width="500px">
+</br>
 <b>Login / Sign up</b>
 <img src="/ss/IMG_6674.PNG" alt="Login/Sign up" width="500px">
 <b>Home</b>
